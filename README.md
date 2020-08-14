@@ -14,7 +14,7 @@ This project consists of two parts:
 You can find in the folder [vm_champs][champs] files with .cor extension which can be run in programm "corewar"
 
 ## How to clone
-This repository includes submodule. So if you want to clone it, you can use the following command:
+If you want to clone it, you can use the following command:
 
 	git clone https://github.com/temofy/Corewar
 
